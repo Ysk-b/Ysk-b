@@ -6,8 +6,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React]([https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white])
-![Next.js]([https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white])
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat")
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat")
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
