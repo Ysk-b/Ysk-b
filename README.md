@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my page!
+I'm Yusuke, frontend developer from Tokyo, Japan.
 
 <!--
 **Ysk-b/Ysk-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
