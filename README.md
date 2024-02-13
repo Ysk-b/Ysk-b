@@ -7,4 +7,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ysk-b" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/Ysk-b/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ysk-b&margin-w=5)](https://github.com/Ysk-b/)
