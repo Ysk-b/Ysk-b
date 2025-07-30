@@ -1,5 +1,5 @@
 ### 🛠 Experience
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,tailwind,js,nodejs,nestjs,ts,react,nextjs,php,laravel,python,mysql,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,tailwind,js,nodejs,nestjs,ts,react,nextjs,php,laravel,mysql,docker,aws" />
 
 <!--
 ### 📈 Status
